@@ -1,8 +1,7 @@
 {
   "name": "norriq-claude-marketplace",
   "owner": {
-    "name": "NORRIQ",
-  },
+    "name": "NORRIQ"
   },
   "plugins": [
     {
