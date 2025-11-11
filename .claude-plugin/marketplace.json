@@ -10,8 +10,8 @@
         "source": "url",
         "url": "https://github.com/norriq-eBusiness/NORRIQ.Commerce.Agents.git"
       },
-      "description": "Commerce department agents: Scout (planning), Bouncer (pre-PR), Sherlock (review), Karen (QA)",
-      "version": "0.3.2",
+      "description": "Commerce department agents: Scout (planning), Bouncer (pre-PR), Sherlock (review), Chaos Monkey (QA)",
+      "version": "0.3.3",
       "author": {
         "name": "NORRIQ Commerce Team"
       }
