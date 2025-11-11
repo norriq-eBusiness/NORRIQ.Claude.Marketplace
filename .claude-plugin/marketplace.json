@@ -1,0 +1,25 @@
+{
+  "name": "norriq-commerce-marketplace",
+  "owner": {
+    "name": "NORRIQ Commerce Team",
+    "email": "commerce@norriq.com"
+  },
+  "metadata": {
+    "description": "NORRIQ Commerce Department Plugin Marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "norriq-commerce-agents",
+      "source": {
+        "type": "git",
+        "url": "https://norriq.visualstudio.com/Team%20Ecommerce/_git/NORRIQ.Commerce.Agents"
+      },
+      "description": "Commerce department code review agents (Bouncer & Sherlock)",
+      "version": "0.1.0",
+      "author": {
+        "name": "NORRIQ Commerce Team"
+      }
+    }
+  ]
+}
