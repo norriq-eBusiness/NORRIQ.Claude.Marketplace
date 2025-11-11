@@ -7,7 +7,7 @@ Official Claude Code plugin marketplace for NORRIQ.
 ### norriq-commerce-agents (v0.1.0)
 Commerce department code review agents (Bouncer & Sherlock)
 
-**Repository:** https://norriq.visualstudio.com/Team%20Ecommerce/_git/NORRIQ.Commerce.Agents
+**Repository:** https://github.com/norriq-eBusiness/NORRIQ.Commerce.Agents
 
 ## Installation
 

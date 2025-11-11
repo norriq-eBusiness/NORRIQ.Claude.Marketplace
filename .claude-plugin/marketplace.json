@@ -11,8 +11,8 @@
     {
       "name": "norriq-commerce-agents",
       "source": {
-        "source": "url",
-        "url": "https://norriq.visualstudio.com/Team%20Ecommerce/_git/NORRIQ.Commerce.Agents"
+        "source": "github",
+        "repo": "norriq-eBusiness/NORRIQ.Commerce.Agents"
       },
       "description": "Collection of commerce specific agents.",
       "version": "0.1.0",
