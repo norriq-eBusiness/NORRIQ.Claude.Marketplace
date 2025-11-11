@@ -4,8 +4,8 @@ Official Claude Code plugin marketplace for NORRIQ.
 
 ## Available Plugins
 
-### norriq-commerce-agents (v0.3.0)
-Commerce department agents: MacGyver (planning), Bouncer (pre-PR), Sherlock (review), Karen (QA)
+### norriq-commerce-agents (v0.3.1)
+Commerce department agents: Scout (planning), Bouncer (pre-PR), Sherlock (review), Karen (QA)
 
 **Repository:** https://github.com/norriq-eBusiness/NORRIQ.Commerce.Agents
 
