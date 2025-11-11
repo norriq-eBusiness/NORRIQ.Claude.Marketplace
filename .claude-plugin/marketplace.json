@@ -10,10 +10,7 @@
   "plugins": [
     {
       "name": "norriq-commerce-agents",
-      "source": {
-        "source": "github",
-        "repo": "norriq-eBusiness/NORRIQ.Commerce.Agents"
-      },
+      "source": "https://github.com/norriq-eBusiness/NORRIQ.Commerce.Agents.git",
       "description": "Collection of commerce specific agents.",
       "version": "0.1.0",
       "author": {
