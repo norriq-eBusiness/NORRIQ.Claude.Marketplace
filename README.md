@@ -1,6 +1,6 @@
-# NORRIQ Commerce Plugins Marketplace
+# NORRIQ Claude Marketplace
 
-Official plugin marketplace for the NORRIQ Commerce department.
+Official Claude Code plugin marketplace for NORRIQ.
 
 ## Available Plugins
 
@@ -20,7 +20,7 @@ Add this marketplace to Claude Code:
 Then browse and install plugins:
 
 ```bash
-/plugin install norriq-commerce-agents@norriq-commerce-marketplace
+/plugin install norriq-commerce-agents@norriq-claude-marketplace
 ```
 
 ## For Maintainers
