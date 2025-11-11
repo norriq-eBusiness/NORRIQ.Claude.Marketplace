@@ -14,7 +14,7 @@ Commerce department code review agents (Bouncer & Sherlock)
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add git+https://norriq.visualstudio.com/Team%20Ecommerce/_git/NORRIQ.Claude.Marketplace
+/plugin marketplace add norriq-eBusiness/NORRIQ.Claude.Marketplace
 ```
 
 Then browse and install plugins:
