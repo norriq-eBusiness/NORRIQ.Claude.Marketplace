@@ -10,8 +10,8 @@
         "source": "url",
         "url": "https://github.com/norriq-eBusiness/NORRIQ.Commerce.Agents.git"
       },
-      "description": "Collection of commerce specific agents.",
-      "version": "0.1.0",
+      "description": "Commerce department code review agents (Bouncer, Sherlock, Karen)",
+      "version": "0.2.0",
       "author": {
         "name": "NORRIQ Commerce Team"
       }
